@@ -1,5 +1,12 @@
 ### Hello from SCUBA Team 👋
 
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
+![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&logo=Matlab&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-TensorFlow-informational?style=flat&logo=TensorFlow&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Keras-informational?style=flat&logo=Keras&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=2bbc8a)
+
 We are doing research in diving here! You will have access to our codes and data for FREE!
 
 <!--
