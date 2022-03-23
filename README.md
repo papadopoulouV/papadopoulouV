@@ -9,6 +9,10 @@
 
 We are doing research in diving here! You will have access to our codes and data for FREE!
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papadopoulouV&theme=jolly&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAzg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **papadopoulouV/papadopoulouV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
