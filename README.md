@@ -7,8 +7,6 @@
 ![](https://img.shields.io/badge/Tools-SKLearn-informational?style=flat&logo=SciKit-Learn&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=2bbc8a)
 
-We are doing research in diving here! You will have access to our codes and data for FREE!
-
 
 This GitHub page is monitored under supervision Dr. Virginie Papadopoulou. Since May 2016, she is working as a Research Associate within the Dayton Lab at University of North Carolina at Chapel Hill, in the department of Biomedical Engineering. Her focus is the use of nanodroplets and microbubbles for contrast enhanced ultrasound imaging and therapy of cancer.
 
