@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hello from SCUBA Team 👋
 
+We are doing research in diving here! You will have access to our codes and data for FREE!
 
 <!--
 **papadopoulouV/papadopoulouV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
