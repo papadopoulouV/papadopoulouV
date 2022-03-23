@@ -8,7 +8,7 @@
 ![](https://img.shields.io/badge/Tools-Tkinter-informational?style=flat&logo=Python&color=2bbc8a)
 
 
-This GitHub page is monitored under supervision Dr. Virginie Papadopoulou. Since May 2016, she is working as a Research Associate within the Dayton Lab at University of North Carolina at Chapel Hill, in the department of Biomedical Engineering. Her focus is the use of nanodroplets and microbubbles for contrast enhanced ultrasound imaging and therapy of cancer.
+This GitHub page is monitored under supervision Dr. Virginie Papadopoulou. Since May 2016, She is a Research Assistant Professor and Divers Alert Network Scholar in the Joint Department of Biomedical Engineering at UNC Chapel Hill & NC State University.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papadopoulouV&theme=cobalt&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
