@@ -1,6 +1,5 @@
-<!-- 
 ![gitartwork](gitartwork.svg)
--->
+
 ### Hello from SCUBA Team <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=2bbc8a)
