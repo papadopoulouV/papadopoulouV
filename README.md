@@ -40,6 +40,11 @@
 This GitHub page is monitored under supervision Dr. Virginie Papadopoulou. Since May 2016, She is a Research Assistant Professor and Divers Alert Network Scholar in the Joint Department of Biomedical Engineering at UNC Chapel Hill & NC State University.
 
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=papadopoulouV&repo=Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks&show_icons=true&theme=gotham)](https://github.com/papadopoulouV/Automatic-Venous-Gas-Emboli-Classification-in-Audio-Doppler-Ultrasound-with-Deep-Neural-Networks)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=papadopoulouV&repo=User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio&show_icons=true&theme=gotham)](https://github.com/papadopoulouV/User-guide-for-an-end-user-to-run-the-script-of-VGE-grading-in-Doppler-ultrasound-audio)
+
+
+
 <!--
 **papadopoulouV/papadopoulouV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
