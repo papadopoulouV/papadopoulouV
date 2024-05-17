@@ -40,9 +40,6 @@
 This GitHub page is monitored under supervision Dr. Virginie Papadopoulou. Since May 2016, She is a Research Assistant Professor and Divers Alert Network Scholar in the Joint Department of Biomedical Engineering at UNC Chapel Hill & NC State University.
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=papadopoulouV&theme=cobalt&hide=prs&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArianAzg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **papadopoulouV/papadopoulouV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
